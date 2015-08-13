@@ -1,0 +1,14 @@
+Rating;  Original; Replacement - 1; Replacement - 2;
+Name;    ZTX313;   MMBT2369;        MMBT4401;
+CE;      15;       15;              40;
+CB;      40;       40;              60;
+EB;      5;        4.5;             6;
+I;       100mA;    200mA;           600mA;
+Package; TH;       SOT-23;          SOT-23;
+
+Rating;  Original; Replacement - 1; Replacement - 2;
+CE;      30;       45;              40;
+CB;      45;       50;              60;
+EB;      5;        6;               6;
+I;       100mA;    100mA;           200mA;
+Package; TH;       SOT-523;         SOT-23;

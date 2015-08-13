@@ -1,0 +1,60 @@
+< http://compgroups.net/comp.sys.sinclair/working-replacements-for-zetex-ztx-transist/1228378 >
+
+   ZTX650 => 2SC3328, 2SD1207, 2SD1835
+   TIPP31 => MPS 650, 2SD1055, 2SD1227, 2SD1207
+   ZTX213 => BC 213 => BC 257, BC 307, BC 557
+   ZTX313 => BSV 26 => unknown
+   ZTX450 => BC 337A, BC 637, BC 639, 2SD1207
+   BC184 => BC183 => BC 413/414,  BC 550
+
+< http://www.zxshed.co.uk/sinclairfaq/index.php5?title=Replacement_Components >
+
+   ZX Spectrum 48k
+   All versions
+
+       ZTX231 => BC251, BC307, BC512, BC557
+       ZTX313 => BC172, BC183, BC238, BC383
+       ZTX650 => BC537, BC737, BC487, BC489, BC538 (using BC487 in TR4 position may cause overheating)
+       BC184 => BC384, BC413, BC550
+
+   For issue 2 boards and above
+
+       ZTX650 => ZTX651 in TR4 position
+       ZTX213 => ZTX750 in TR5 position
+       ZTX313 => BC547, BC548 and BC549 in TR1/TR2 position (Usually improves picture quality significantly)
+       BA157 => BA158 or 1N4937 fast recovery diodes 
+
+   For issue 3 boards and above
+
+       ZTX450 => ZTX650/651 in TR7 position
+       ZTX313 => BC184 in TR8 - TR9 position 
+
+   Issue 3B
+
+       TR1, TR2, TR3 and TR6 => MPS2369 
+
+   Issue 6A
+
+       TR8 and TR9 => BC549B 
+
+   Spectrum +3
+
+      TR1 in the +3 PSU is an H1061 => BD243C and TIP41C 
+
+
+< fixunix.com/sinclair/394895-working-replacements-zetex-ztx-transistors-zx-spectrum.html >
+
+   ZTX313 => 2N2369
+
+   ZTX650 => 2SC3328, 2SD1207, 2SD1835
+   TIPP31 => MPS 650, 2SD1055, 2SD1227, 2SD1207
+   ZTX213 => BC 213 => BC 257, BC 307, BC 557
+   ZTX313 => BSV 26 => unknown
+   ZTX450 => BC 337A, BC 637, BC 639, 2SD1207
+   BC184 => BC183 => BC 413/414, BC 550
+   
+   
+   
+   Surface Mount
+      ZTX313 => BC847CT-TP
+      BC184  => 
